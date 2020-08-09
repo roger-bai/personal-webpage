@@ -23,21 +23,6 @@ h1 {
     grid-row-start: 1;
     grid-column-start: 1;
     grid-column-end: 3;
-    color: rgb(0, 0, 0);
     font-size: 48pt;
-    font-family: 'Helvetica', monospace;
        
 }
-
-ul {
-    list-style-type: none;
-    grid-row-start: 2;
-    grid-column-start: 2;
-    width: 200px;
-    font-size: 14pt;
-} 
-
-li {
-    padding-top: 10px;
-}
-
