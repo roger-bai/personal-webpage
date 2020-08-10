@@ -6,11 +6,6 @@ body {
     background-position: right top;
     background-color: rgb(255, 255, 255);
     padding: 100px;
-    font-family: 'Open Sans', sans-serif;
-    color: #000;
-    display: grid;
-    align-items: center;
-    grid-template-columns: 300px auto;
     background-repeat: no-repeat;
 }
 
@@ -20,9 +15,6 @@ body {
 }
 
 h1 {
-    grid-row-start: 1;
-    grid-column-start: 1;
-    grid-column-end: 3;
     font-size: 48pt;
        
 }
