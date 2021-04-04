@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
-    background-image: url('A3-cluster-algebra.png');
-    background-size: contain;
-    background-position: right top;
     background-color: rgb(255, 255, 255);
     padding: 100px;
     background-repeat: no-repeat;
